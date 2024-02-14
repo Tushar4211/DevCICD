@@ -1,0 +1,5 @@
+demo_job_1
+     tags:
+     -gitlab-runner-ci
+     Script:
+     echo "Hello World"
